@@ -79,7 +79,7 @@ Dataset features are preprocessed and scaled before being used for model trainin
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/fraudshield-ai.git
+git clone https://github.com/singhshagun08/fraudshield-ai.git
 cd fraudshield-ai
 ```
 
