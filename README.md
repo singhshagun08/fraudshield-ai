@@ -60,8 +60,8 @@ fraudshield-ai/
 │   └── feature_name.pkl
 │
 ├── screenshots/
-│   ├── dashboard.png
-│   └── prediction_result.png
+│   ├── Dashboard.png
+│   └── result.png
 │
 └── README.md
 ```
@@ -101,11 +101,11 @@ streamlit run app.py
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ### Fraud Detection Result
 
-![Prediction Result](screenshots/prediction_result.png)
+![Prediction Result](screenshots/result.png)
 
 ---
 
